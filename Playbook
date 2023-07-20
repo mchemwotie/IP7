@@ -40,5 +40,7 @@
            - containerd.io
            - docker-compose
          update_cache: yes
+     - name: Start application
+       shell: docker-compose
        args:
          executable: /bin/bash
