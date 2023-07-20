@@ -40,7 +40,5 @@
            - containerd.io
            - docker-compose
          update_cache: yes
-     - name: Start application
-       shell: docker-compose -f /home/charles/yolo/docker-compose.yaml up -d
        args:
          executable: /bin/bash
