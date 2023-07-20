@@ -13,6 +13,12 @@ Make sure that you have the following installed:
 ## Run the folllowing to start the app
  `npm start`
 
+## Technologies Used
+Installed kubernetes tools such minikube, kubectl tools to facilitate deployment of containers to kubernetes. Installed docker. Google CLoud SDK Shell was used to push gcloud and kubectl commands.
+
+## Licence/Copyright
+For licence/copyright information check on the Licence.md file.
+
 ## Open a new terminal and run the same commands in the backend folder
  `cd ../backend`
 
@@ -21,3 +27,9 @@ Make sure that you have the following installed:
  `npm start`
 
  ### Go ahead a nd add a product (note that the price field only takes a numeric input)
+
+ ## Technologies Used
+Installed kubernetes tools such minikube, kubectl tools to facilitate deployment of containers to kubernetes. Installed docker. Google CLoud SDK Shell was used to push gcloud and kubectl commands.
+
+## Licence/Copyright
+For licence/copyright information check on the Licence.md file.
