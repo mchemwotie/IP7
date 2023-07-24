@@ -27,6 +27,7 @@ Installed kubernetes tools such minikube, kubectl tools to facilitate deployment
 
 ## To create or update the resources defined in yaml files :
 kubectl apply -f frontend.yaml.
+
 kubectl apply -f backend.yaml.
 
 ## Licence/Copyright
