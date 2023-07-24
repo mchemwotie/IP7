@@ -1,5 +1,5 @@
 
-# Choice of Base Image
+# Base Images
 1. Client Directory
 
 I used Alpine 3.14 due to it's small size and built-in package repository that allows additional tools to be installed.
