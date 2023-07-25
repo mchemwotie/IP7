@@ -22,8 +22,9 @@ Make sure that you have the following installed:
 
  ### Go ahead a nd add a product (note that the price field only takes a numeric input)
 
- ## Technologies Used
-Installed kubernetes tools such minikube, kubectl tools to facilitate deployment of containers to kubernetes. Installed docker. Google CLoud SDK Shell was used to push gcloud and kubectl commands.
+ ## Project Description
+ 
+ Ansible + Terraform instrumentation
 
 ## To create or update the resources defined in yaml files :
 kubectl apply -f frontend.yaml.
