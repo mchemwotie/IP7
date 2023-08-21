@@ -26,7 +26,7 @@ Make sure that you have the following installed:
  
 To implement the orchestration concepts by hosting Yolomy web app project on GKE instances.
 
-# KUBERNETES DEPLOYMENT ON GCP
+# Deployment on GCP
 Create an account on GCP : https://cloud.google.com/
 Create a Project and cluster using your Google cloud account.
 Clone the git project repository on GKE terminal
