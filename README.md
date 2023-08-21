@@ -38,7 +38,7 @@ kubectl apply -f frontend.yaml.
 kubectl apply -f backend.yaml.
 
 #website/Live Site
-
+ https://mchemwotie.github.io/yolo/
 
 ## Licence/Copyright
 For licence/copyright information check on the Licence.md file.
