@@ -1,4 +1,4 @@
-# Requirements
+# # Requirements
 Make sure that you have the following installed:
 - [node](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04) 
 - npm 
@@ -24,7 +24,13 @@ Make sure that you have the following installed:
 
  ## Project Description
  
- Ansible + Terraform instrumentation
+To implement the orchestration concepts by hosting Yolomy web app project on GKE instances.
+
+# KUBERNETES DEPLOYMENT ON GCP
+Create an account on GCP : https://cloud.google.com/
+Create a Project and cluster using your Google cloud account.
+Clone the git project repository on GKE terminal
+cd to the project that you cloned.
 
 ## To create or update the resources defined in yaml files :
 kubectl apply -f frontend.yaml.
